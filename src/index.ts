@@ -10,6 +10,7 @@ import { DarkTheme } from './DarkTheme';
 
 export * from './Colors';
 export * from './TypoGraphy';
+export * from './helpers';
 export * from './types';
 
 export { useTheme, ThemeProvider, LightTheme, DarkTheme };
