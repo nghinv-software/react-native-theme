@@ -15,7 +15,9 @@ ThemeProvider.defaultProps = {
 
 function ThemeProvider(props: ThemeProviderPropsType) {
   const { themes } = props;
-  const [themeMode, setThemeMode] = useState<ThemeMode>(props.themeMode || 'default');
+  const [themeMode, setThemeMode] = useState<ThemeMode>(
+    props.themeMode || 'default'
+  );
 
   return (
     <ThemeContext.Provider

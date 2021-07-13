@@ -30,7 +30,13 @@ npm install @nghinv/react-native-theme
 
 1. Wrapper `ThemeProvider` with `Root` Component
 ```js
-import { ThemeProvider, DarkTheme, LightTheme, Colors, ThemeType } from '@nghinv/react-native-theme';
+import { 
+  ThemeProvider, 
+  DarkTheme, 
+  LightTheme, 
+  Colors, 
+  ThemeType,
+} from '@nghinv/react-native-theme';
 
 const black: ThemeType = {
   ...DarkTheme,
