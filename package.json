@@ -1,6 +1,6 @@
 {
   "name": "@nghinv/react-native-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native Theme",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

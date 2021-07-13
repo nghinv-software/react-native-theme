@@ -5,9 +5,11 @@
 
 import { useTheme } from './useTheme';
 import ThemeProvider from './ThemeProvider';
+import { LightTheme } from './LightTheme';
+import { DarkTheme } from './DarkTheme';
 
 export * from './Colors';
 export * from './TypoGraphy';
 export * from './types';
 
-export { useTheme, ThemeProvider };
+export { useTheme, ThemeProvider, LightTheme, DarkTheme };
