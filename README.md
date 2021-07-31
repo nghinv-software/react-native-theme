@@ -214,6 +214,10 @@ type ThemeType = {
 };
 ```
 
+---
+## Credits
+
+- [@Nghi-NV](https://github.com/Nghi-NV)
 
 [version-badge]: https://img.shields.io/npm/v/@nghinv/react-native-theme.svg?style=flat-square
 [package]: https://www.npmjs.com/package/@nghinv/react-native-theme

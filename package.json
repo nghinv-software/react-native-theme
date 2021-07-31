@@ -1,6 +1,6 @@
 {
   "name": "@nghinv/react-native-theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React Native Theme",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -37,9 +37,7 @@
   },
   "homepage": "https://github.com/nghinv-software/react-native-theme#readme",
   "publishConfig": {
-    "access": "public",
-    "cache": "~/.npm",
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
